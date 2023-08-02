@@ -1,1 +1,1 @@
-vascript-web_jqueryi
+javascript-web_jqueryi
